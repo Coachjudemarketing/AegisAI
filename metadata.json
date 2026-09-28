@@ -1,0 +1,6 @@
+{
+  "name": "AegisAI - Enterprise Compliance & Avatar Training",
+  "description": "Certified enterprise compliance training and workforce learning delivered through interactive AI avatars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
